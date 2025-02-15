@@ -18,10 +18,10 @@ Este repositório contém um estudo prático sobre o **NumPy**, uma das bibliote
 
 1. Clone o repositório:
 
-   ```git clone https://github.com/karenjbarros/karenjblab/numpy-study.git```
+   ```git clone https://github.com/karenjbarros/karenjblab/estudo-de-numpy.git```
 
 2. Instale as dependências:
 
-   ``pip install -r requirements.txt```
+   ```pip install -r requirements.txt```
 
 3. Execute os scripts ou abra os notebooks para começar a estudar.
